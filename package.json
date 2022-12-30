@@ -347,7 +347,7 @@
     "istanbul-lib-report": "^2.0.8",
     "istanbul-lib-source-maps": "^3.0.6",
     "istanbul-reports": "^2.2.6",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "mocha-multi-reporters": "^1.1.7",
     "prettier": "^1.18.2",
     "sinon": "^7.4.1",
